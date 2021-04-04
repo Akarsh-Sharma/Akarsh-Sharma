@@ -1,3 +1,7 @@
+<p align='center'>
+<a href="https://www.linkedin.com/in/akarsh-sharma/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
+
 ### Hi there 👋, 
 
 Welcome to my Github Profile. I am a fourth year student at the University of Toronto studying Computer Science and Statistics. Here I mainly post the code and repositories for my university and self-driven projects. These projects mainly consist of Java, Javascript, Python and R projects. 
