@@ -4,7 +4,7 @@
 
 ### Hi there 👋, 
 
-Welcome to my Github Profile. I am a fourth year student at the University of Toronto studying Computer Science and Statistics. Here I mainly post the code and repositories for my university and self-driven projects. These projects mainly consist of Java, Javascript, Python and R projects. 
+Welcome to my Github Profile. I am a recent graduate from the University of Toronto majoring in Computer Science and Statistics. Here I mainly post the code and repositories for my university and self-driven projects. These projects mainly consist of Java, Javascript, Python and R. 
 
 <!--
 **Akarsh-Sharma/Akarsh-Sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
